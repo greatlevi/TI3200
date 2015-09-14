@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\..\..\..\&#x5De5;&#x4F5C;&#x8D44;&#x6599;\&#x5De5;&#x4F5C;&#x6587;&#x6863;\&#x6240;&#x9700;&#x6587;&#x4eF6;\firmware.src\firmware.src\src\AbleCloudDemo.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\example\blinky\ewarm\blinky.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\driverlib\ewarm\driverlib.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\example\freertos_demo\ewarm\freertos_demo.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\middleware\ewarm\middleware.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\oslib\ewarm\oslib.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\example\provisioning_smartconfig\ewarm\provisioning_smartconfig.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\..\..\work software\CC3200SDK_1.1.0\cc3200-sdk\example\provisioning_smartconfig\ewarm\provisioning_smartconfig.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\example\serial_wifi\ewarm\serial_wifi.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\simplelink\ewarm\simplelink.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\ti3200.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\example\timer\ewarm\timer.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\example\uart_demo\ewarm\uart_demo.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\..\LightSmart\ewarm\uart_demo.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\example\uart_dma\ewarm\uart_dma.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\..\cc3200-sdk\example\getting_started_with_wlan_station\ewarm\wlan_station.ewp</path>
+  </project>
+  <batchBuild/>
+</workspace>
+
+
